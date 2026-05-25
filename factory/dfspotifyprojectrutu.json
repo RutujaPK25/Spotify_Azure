@@ -1,0 +1,15 @@
+{
+	"name": "dfspotifyprojectrutu",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c9e3ed8-cdb1-444e-a1b1-2424a2072c36",
+		"tenantId": "470002f3-4c4e-4da5-aeef-345c9ff4a6a7"
+	}
+}
